@@ -1,5 +1,5 @@
 ## Bio EN
-Thorsten Jakoby is a consultant for IT-Architectures and Cloud Migrations at Novatec in Germany. He is currently a cloud security architect for one of our highly regulated customers in Germany.
+Thorsten Jakoby is a consultant for IT-Architectures and Cloud Migrations at Novatec in Germany. He is currently a cloud security architect for a highly regulated customers in Germany.
 
 With a background of more than 10 years in distributed applications Thorsten enables both customers building cloud architectures and students entering the IT and cloud world. Prior to his role at Novatec he led a company specialized in cloud-based startup projects. 
 
