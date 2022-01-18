@@ -26,3 +26,11 @@ Statt "das sichern wir durch eine Firewall und Netzwerke", wurden Multi-Tenant-Z
 Business Continuity und Disaster Recovery wurden voll automatisiert mit Hilfe von Terraform, Access Control Lists und Microsoft Azure aufgebaut.
 
 Wir zeigen mit Beispielen und Demo's wie wir es technisch umgesetzt haben, nicht das Rechenzentrum in die Cloud zu migrieren, sondern eine sichere und flexible Plattform zu designen, um uns auf den Weg in die Cloud vorzubereiten.
+
+## Given at
+* [JCON 2021](https://www.youtube.com/watch?v=CmbWRmgpXwE&list=PLFeSAZzYdUoe_EpnCNXo-VDoGXOVr73Ns&index=52)
+* ContainerDays 21
+* IT-GRC 21
+* Basel One 21
+* IT-Tage 21
+* Novatec Summit 21
