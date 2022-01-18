@@ -9,3 +9,6 @@ This is one of many adoption insights in terms of "hidden costs".
 In this talk Matthias and Thorsten describe their experience about those costs based on the experience of adopting CaaS in several client scenarios. 
 In most cases it was set-up to achieve a "PaaS-like" self-service developer experience. 
 This covers 5+ years of lesson's learned in on- and off-prem setups, GitOps, security, automation, application deployment, legacy integration, observability and skill enablement.
+
+## Given at
+* [KubeCon 2021 NA](https://www.youtube.com/watch?v=XCPtCMRwbAo)
