@@ -33,4 +33,4 @@ Wir zeigen mit Beispielen und Demo's wie wir es technisch umgesetzt haben, nicht
 * IT-GRC 21
 * Basel One 21
 * IT-Tage 21
-* Novatec Summit 21
+* [Novatec Summit 21](https://www.youtube.com/watch?v=dgMQzpm_8X4&list=PLMhFK3KoYDVv6iw6DV0XKRL5lDctsBaJl)
