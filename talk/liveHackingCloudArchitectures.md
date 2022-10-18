@@ -8,3 +8,4 @@ See the attacker scanning webapplications and start lateral movement with the go
 Further, become a part of the blue-team, defending and securing the architecture with modern open sourc tools.
 
 In this demo you will see various attack vectors and ways to mitigate and observe them.
+Kubernetes, eBPF, Cillium and Falco - just to name a few used technologies.
