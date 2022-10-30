@@ -1,4 +1,4 @@
-As more organizations are moving to the cloud, cloud architectures are getting more sophisticated having a kind of technology diversity. This includes for example container orchestrators, database services, networking components and virtual machines.
+As more organizations are moving to the cloud, cloud architectures are getting more sophisticated by having a kind of technology diversity. This includes for example container orchestrators, database services, event meshes, networking components and virtual machines.
 
 When it comes to security, observability on this diversity is paramount.
 The main question here is, do you really perceive when your app landscape is under attack?
