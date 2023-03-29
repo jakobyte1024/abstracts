@@ -13,6 +13,7 @@ Furthermore, become a part of the blue-team, defending and securing the architec
 
 (923 chars)
 
+#### 
 As more organizations are moving to the cloud, cloud architectures are getting more sophisticated by having a kind of technology diversity. This includes for example container orchestrators, database services, event meshes, networking components and virtual machines.
 
 When it comes to security, observability on this diversity is paramount. The main question here is, do you really perceive when your app landscape is under attack?
