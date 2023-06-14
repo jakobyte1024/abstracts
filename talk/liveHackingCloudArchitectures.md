@@ -42,3 +42,7 @@ Wenn es um Sicherheit geht, ist die Beobachtbarkeit dieser Vielfalt von absolut 
 In diesem Vortrag werden Sie die Gelegenheit haben, verschiedene Angriffsvektoren und Möglichkeiten zu deren Abwehr kennenzulernen. Dabei werden viele Technologien zum Einsatz kommen, wie beispielsweise Kubernetes, eBPF, Cillium, Falco und vieles mehr.
 
 Schauen Sie sich einen Live-Angriff auf eine reale Cloud-Architektur an und erleben Sie, wie der Angreifer Webanwendungen scannt und mit dem Ziel der Datenexfiltration eindringt. Werden Sie außerdem Teil des Blue-Teams, das die Architektur mit modernen Open-Source-Tools verteidigt und absichert.
+
+## given at
+- [Spring IO 2023](https://www.youtube.com/watch?v=39nnVn7rnAo
+- )
