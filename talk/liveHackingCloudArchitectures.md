@@ -44,5 +44,4 @@ In diesem Vortrag werden Sie die Gelegenheit haben, verschiedene Angriffsvektore
 Schauen Sie sich einen Live-Angriff auf eine reale Cloud-Architektur an und erleben Sie, wie der Angreifer Webanwendungen scannt und mit dem Ziel der Datenexfiltration eindringt. Werden Sie außerdem Teil des Blue-Teams, das die Architektur mit modernen Open-Source-Tools verteidigt und absichert.
 
 ## given at
-- [Spring IO 2023](https://www.youtube.com/watch?v=39nnVn7rnAo
-- )
+- [Spring IO 2023](https://www.youtube.com/watch?v=39nnVn7rnAo)
