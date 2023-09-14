@@ -45,3 +45,7 @@ Schauen Sie sich einen Live-Angriff auf eine reale Cloud-Architektur an und erle
 
 ## given at
 - [Spring IO 2023](https://www.youtube.com/watch?v=39nnVn7rnAo)
+- JCON 2023
+- We Are Developers Congress
+- Container Days 2023
+- Heise devSec() 2023
