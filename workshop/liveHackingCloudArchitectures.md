@@ -12,6 +12,8 @@ You will not only learn how to place proper technologies in a hands-on environme
 The environment is based on a real-world cloud architecture, being compromised by scanning web applications and lateral movement with the goal of exfiltrating data.
 All technologies and documentations are open source and can be utilized in your digital realm afterwards.
 
+The only things you need to attend: modern web browser, stable internet connection, patience and curiosity.
+
 ## Abstract DE
 ### Live Hacking Cloud Architectures
 
